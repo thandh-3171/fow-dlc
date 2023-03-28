@@ -1,0 +1,14 @@
+{
+	"name": "com.fog-of-war-test-dlc",
+	"displayName": "Fog of War Test DLC",
+	"version": "1.0.0",
+	"unity": "2021.3",
+	"author": "Do Hoang Than",
+	"description": "Feature Test",
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thandh-3171/fow-dlc.git"
+	}
+}
